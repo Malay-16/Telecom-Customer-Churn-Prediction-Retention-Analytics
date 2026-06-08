@@ -152,5 +152,3 @@ Developed an end-to-end churn prediction solution that combines analytics and ma
 This project demonstrates the practical application of **Data Analytics**, **Machine Learning**, and **Business Problem Solving** in a real-world telecom use case.
 
 ---
-
-### ⭐ If you found this project useful, feel free to star the repository!
